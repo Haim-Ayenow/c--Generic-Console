@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.exe
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.deps.json
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.dll
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\ref\GenericsConsoleApp.dll
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.pdb
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.dll
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\ref\GenericsConsoleApp.dll
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.pdb
+C:\Users\User\source\repos\GenericsConsoleApp\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.genruntimeconfig.cache
